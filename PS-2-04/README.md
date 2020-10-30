@@ -12,3 +12,5 @@ in the folder containing encoder300.pt, vae300.pt and decoder300.pt
 CC(=NNC(=S)N)C1=CC=CS1
 
 C1=CC=C(C=C1)C(=O)NC2=C(C3=C(C=C2)C(=O)C4=CC=CC=C4C3=O)O
+
+CN1CCN(CC1)C1=CC=C(C=C1)CNC(=O)C1=CC=NO1
