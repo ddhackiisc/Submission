@@ -9,3 +9,6 @@ CCCCCCn1nc(C)cc1NC(=O)[C@H]1CC(=O)N[C@@H](CC)C1
 CC[C@H](CNC(=O)c1cc(C#N)c[nH]1)NC(=O)c1ncn[nH]1
 CC[C@H]1C[C@@H](C(=O)NC2(c3ccc(Cl)c(Cl)c3)CC2)CC(=O)N1
 Cc1cccc(C2(NC(=O)C[C@H]3CCCC(=O)N3)CCC2)c1
+CC(C)[C@H](CNC(=O)c1cc(C#N)c[nH]1)NC(=O)c1c[nH]c(=O)n1C
+CCOC(=O)[C@H](Cc1cnc[nH]1)NC(=O)Cc1cc(F)ccc1F
+CC[C@H](CNC(=O)c1cc(C#N)c[nH]1)NC(=O)c1c[nH]c(=O)n1C
