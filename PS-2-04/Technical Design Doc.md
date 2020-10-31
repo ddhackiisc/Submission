@@ -1,6 +1,4 @@
-Proposed Functional, technical design documents
-
-# DDHackIISc - SMILES Variational AutoEncoder - Technical Design Document
+# IISc UG - 8414 - SMILES Variational AutoEncoder - Technical Design Document
 
 Our goal is to take a dataset of SMILES strings representing molecules with inhibitory effect on SARS-CoV and generate new molecules that may form potential drugs against COVID-19, using a variational autoencoder (VAE).
 
