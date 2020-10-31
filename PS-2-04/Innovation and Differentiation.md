@@ -1,6 +1,4 @@
-Describe how you would enhance. differentiate and add novelty to your approach. This can be in data & feature preparation , modelling, software development, user interfaces or scientific assumptions
-
-# DDHACKIISc - SMILES Variational AutoEncoder - Innovation
+# IISc UG - 8414 - SMILES Variational AutoEncoder - Innovation
 
 Our Variational Autoencoder (VAE) to generate potential SARS-CoV-2 inhibitors displays several innovations.
 
@@ -21,4 +19,4 @@ We canonicalize the input SMILES strings received using the rdkit ChemInformatic
 ## Quality Control and Output Visualization
 After generating random samples from the model, we use rdkit to check tanimoto similarity witht the entire dataset to verify diversity. WE also generate images of the molecules for easy visualisation. 
 
-Our code is also well documented and presented in an ipython notebook, which makes it it easy for other researchers to build on our work.
+Our code is also well documented and presented in an IPython notebook (SMILES VAE.ipynb), which makes it it easy for other researchers to build on our work.
