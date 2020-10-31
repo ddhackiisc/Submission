@@ -9,7 +9,7 @@ The model has three parts, an LSTM based autoencoder that maps SMILES strings in
 The architecture is as follows:
 
 ## Encoder - Bidirectional LSTM 
-Maps input space (30 or so possible SMILES characters in training data) to hidden space of size 300 using a single embedding layers followed by a one-layer Gated Recurrent Unit (GRU).
+Maps input space (30 or so possible SMILES characters in training data) to hidden space of size 300 using a single embedding layer followed by a one-layer Gated Recurrent Unit (GRU).
 
 ## VAE
 Uses two fully connected layers of width 300 to map encoded vector representations to a continuous latent space. The vector is reparameterized by defining a mean and standard deviation based on the input, and using it to scale a normally-distributed random variable. This gives us a new vector representation which is passed to the decoder after two more fully connected layers.
