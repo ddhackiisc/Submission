@@ -13,3 +13,7 @@ in the folder containing encoder300.pt, vae300.pt and decoder300.pt and cleancov
 
 Note that sometimes less strings will be generated than the command-line input, because the script deletes those strings which do not form valid molecules or are already present in the training data
 
+## training
+
+In order to train the model please use the notebook SMILES VAE.ipynb which can be customized to use the pre-trained model or train an entirely new model.
+
