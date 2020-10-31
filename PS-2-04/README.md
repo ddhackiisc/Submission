@@ -1,8 +1,9 @@
-# How to run the model
+# How to run the model to generate samples
 
 ## requirements
 You need to have rdkit available as well as standard ML and pytorch libraries
 
+## generation
 In order to generate (say) 10 molecules using the VAE:
 
 run the following command
